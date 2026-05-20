@@ -1,5 +1,7 @@
 # The Pragmatics of Prompting
 
+Repository: https://github.com/Ahmed-Bardhek/CS321_research_paper
+
 This repository contains the files for the research project:
 
 **The Pragmatics of Prompting: Assessing the Impact of Conversational Tone and Politeness on Large Language Model Accuracy**
@@ -137,5 +139,3 @@ python scripts/06_generate_figures.py
 - `data/results/model_generation_sensitivity.csv`
 - `data/results/statistical_tests.csv`
 - `paper/tables/results_tables.tex`
-
-
