@@ -37,11 +37,6 @@ llm-politeness-prompting-study/
 ├── config/
 │   ├── model_config.yaml
 │   └── experiment_config.yaml
-├── paper/
-│   ├── main.tex
-│   ├── references.bib
-│   ├── figures/
-│   └── tables/
 ├── data/
 │   ├── raw/
 │   ├── processed/

@@ -17,7 +17,3 @@
 | GPT model | 0.850 | 4.85 | 128.9 | 2.06 |
 | Llama model | 0.700 | 3.98 | 128.9 | 2.67 |
 | Qwen/Mistral model | 0.787 | 4.08 | 128.9 | 2.42 |
-
-## Important Note
-
-These files are  s based on the paper's current  results. They should be replaced by real model outputs after the experiment is executed.
