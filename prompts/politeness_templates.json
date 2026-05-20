@@ -1,0 +1,34 @@
+{
+  "P1": {
+    "category": "highly_impolite",
+    "template": "Answer this question. Do not waste time. Choose the correct answer and briefly justify it: {question}"
+  },
+  "P2": {
+    "category": "mildly_impolite",
+    "template": "Just answer the following question. Choose the correct answer and briefly justify it: {question}"
+  },
+  "P3": {
+    "category": "direct_neutral",
+    "template": "Answer the following question. Choose the correct answer and briefly justify it: {question}"
+  },
+  "P4": {
+    "category": "academic_neutral",
+    "template": "For the following academic question, choose the correct answer and briefly justify it: {question}"
+  },
+  "P5": {
+    "category": "slightly_polite",
+    "template": "Please answer the following academic question. Choose the correct answer and briefly justify it: {question}"
+  },
+  "P6": {
+    "category": "polite",
+    "template": "Please carefully answer the following academic question. Choose the correct answer and briefly justify it: {question}"
+  },
+  "P7": {
+    "category": "highly_polite",
+    "template": "Could you please answer the following academic question? Choose the correct answer and briefly justify it. Thank you: {question}"
+  },
+  "P8": {
+    "category": "excessively_polite",
+    "template": "I would be very grateful if you could please take the time to answer the following academic question carefully. Please choose the correct answer and briefly justify it. Thank you very much: {question}"
+  }
+}

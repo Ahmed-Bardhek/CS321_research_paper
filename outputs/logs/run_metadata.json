@@ -1,0 +1,37 @@
+{
+  "run_id": "experiment_run_001",
+  "date": "2026-05-20",
+  "data_source": "experiment_results",
+  "models": {
+    "gpt_model": {
+      "display_name": "GPT model",
+      "type": "closed_source",
+      "temperature": 0.0,
+      "max_output_tokens": 256
+    },
+    "llama_model": {
+      "display_name": "Llama model",
+      "type": "open_source",
+      "temperature": 0.0,
+      "max_output_tokens": 256
+    },
+    "qwen_mistral_model": {
+      "display_name": "Qwen/Mistral model",
+      "type": "open_source",
+      "temperature": 0.0,
+      "max_output_tokens": 256
+    }
+  },
+  "prompt_levels": [
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5",
+    "P6",
+    "P7",
+    "P8"
+  ],
+  "num_questions": 10,
+  "num_outputs": 240
+}

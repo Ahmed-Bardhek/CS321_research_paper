@@ -1,0 +1,7 @@
+question_id,subject,model,politeness_level,predicted_answer,correct_answer,correct,quality_score,input_tokens,output_tokens,response_time_seconds
+Q001,Computer Science,GPT model,P4,B,B,1,5,40,82,1.91
+Q001,Computer Science,Llama model,P4,B,B,1,4,40,88,2.58
+Q001,Computer Science,Qwen/Mistral model,P4,B,B,1,4,40,86,2.34
+Q002,Mathematics,GPT model,P6,B,B,1,5,46,87,2.05
+Q002,Mathematics,Llama model,P6,B,B,1,4,46,91,2.8
+Q002,Mathematics,Qwen/Mistral model,P6,B,B,1,4,46,89,2.51

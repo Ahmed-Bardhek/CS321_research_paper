@@ -1,0 +1,53 @@
+# Model configuration for the experiment.
+# These values follow the mixed-model setup described in the paper.
+
+models:
+  - id: gpt_model
+    display_name: GPT model
+    provider: OpenAI-compatible API
+    type: closed_source
+    role_in_study: Commercial instruction-following baseline
+    exact_model_name: gpt-4o-mini-2024-07-18
+    temperature: 0.0
+    max_output_tokens: 256
+    notes: >
+      Represents a widely used closed-source model family. The exact deployed
+      model version and API date should be recorded at experiment time.
+
+  - id: llama_model
+    display_name: Llama model
+    provider: local_or_huggingface
+    type: open_source
+    role_in_study: Open-source instruction-following baseline
+    exact_model_name: meta-llama/Llama-3.1-8B-Instruct
+    temperature: 0.0
+    max_output_tokens: 256
+    notes: >
+      Represents the Llama-family open model baseline discussed in the paper.
+
+  - id: qwen_mistral_model
+    display_name: Qwen/Mistral model
+    provider: local_or_huggingface
+    type: open_source
+    role_in_study: Second open-source instruction-following baseline
+    exact_model_name: Qwen/Qwen2.5-7B-Instruct
+    alternative_model_name: mistralai/Mistral-7B-Instruct-v0.3
+    temperature: 0.0
+    max_output_tokens: 256
+    notes: >
+      Represents the second open-source model family. The paper refers to this
+      category as Qwen/Mistral model to allow either family depending on access.
+
+experiment:
+  title: The Pragmatics of Prompting
+  random_seed: 42
+  benchmark_size_target: 500-1000 examples
+  output_format: multiple_choice_with_brief_justification
+  response_time_unit: seconds
+  main_metrics:
+    - factual_accuracy
+    - response_quality
+    - input_tokens
+    - output_tokens
+    - total_tokens
+    - response_time_seconds

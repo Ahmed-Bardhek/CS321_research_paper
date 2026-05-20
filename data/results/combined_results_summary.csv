@@ -1,0 +1,25 @@
+model,politeness_level,accuracy,input_tokens,output_tokens,total_tokens
+GPT model,P1,78.4,31,76,107
+GPT model,P2,79.1,34,78,112
+GPT model,P3,81.2,35,82,117
+GPT model,P4,81.7,40,84,124
+GPT model,P5,82.0,42,86,128
+GPT model,P6,82.4,46,88,134
+GPT model,P7,81.9,54,91,145
+GPT model,P8,80.8,68,96,164
+Llama model,P1,69.3,31,76,107
+Llama model,P2,70.1,34,78,112
+Llama model,P3,72.4,35,82,117
+Llama model,P4,72.8,40,84,124
+Llama model,P5,73.2,42,86,128
+Llama model,P6,73.5,46,88,134
+Llama model,P7,72.9,54,91,145
+Llama model,P8,71.6,68,96,164
+Qwen/Mistral model,P1,72.6,31,76,107
+Qwen/Mistral model,P2,73.0,34,78,112
+Qwen/Mistral model,P3,74.8,35,82,117
+Qwen/Mistral model,P4,75.1,40,84,124
+Qwen/Mistral model,P5,75.6,42,86,128
+Qwen/Mistral model,P6,75.9,46,88,134
+Qwen/Mistral model,P7,75.2,54,91,145
+Qwen/Mistral model,P8,74.0,68,96,164

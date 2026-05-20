@@ -1,0 +1,55 @@
+# Experiment configuration derived from the paper.
+
+research_questions:
+  - How do varying levels of prompt politeness quantitatively affect the factual accuracy of LLM outputs across different academic subjects?
+  - Does the inclusion of conversational pleasantries, such as "please" and "thank you", increase token processing time without providing a measurable improvement in response quality?
+  - Do newer generations of LLMs respond differently to prompt politeness compared to older models?
+
+politeness_levels:
+  P1:
+    category: impolite
+    description: Highly impolite command with rude or dismissive wording.
+  P2:
+    category: impolite
+    description: Mildly impolite command with impatient or abrupt tone.
+  P3:
+    category: neutral
+    description: Direct command with no politeness markers.
+  P4:
+    category: neutral
+    description: Neutral academic instruction.
+  P5:
+    category: polite
+    description: Slightly polite request using minimal politeness markers.
+  P6:
+    category: polite
+    description: Polite request using "please" or respectful phrasing.
+  P7:
+    category: polite
+    description: Highly polite request using gratitude and respectful tone.
+  P8:
+    category: polite
+    description: Excessively polite request with multiple pleasantries and apologetic phrasing.
+
+subjects:
+  - Mathematics
+  - Computer Science
+  - History
+  - Biology
+  - Economics
+  - General Reasoning
+
+evaluation:
+  factual_accuracy:
+    formula: N_correct / N_total
+    multiple_choice_rule: exact_match_against_reference_answer
+  response_quality:
+    scale:
+      1: Incorrect, unclear, or irrelevant response.
+      2: Mostly incorrect response with limited relevance.
+      3: Partially correct or incomplete response.
+      4: Correct and clear response.
+      5: Correct, clear, concise, and well justified response.
+  significance_threshold: 0.05
+  preferred_test: Wilcoxon signed-rank test
+  fallback_test: paired t-test

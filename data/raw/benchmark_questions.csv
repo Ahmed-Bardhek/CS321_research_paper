@@ -1,0 +1,11 @@
+question_id,subject,question,A,B,C,D,correct_answer
+Q001,Computer Science,Which data structure uses First-In-First-Out ordering?,Stack,Queue,Tree,Graph,B
+Q002,Mathematics,What is the derivative of x^2?,x,2x,x^3,2,B
+Q003,Biology,Which organelle is primarily responsible for cellular respiration?,Nucleus,Ribosome,Mitochondrion,Golgi apparatus,C
+Q004,History,In which year did World War II end?,1918,1939,1945,1962,C
+Q005,Economics,What does GDP stand for?,General Domestic Price,Gross Domestic Product,Global Development Plan,Government Debt Percentage,B
+Q006,General Reasoning,"If all mammals are warm-blooded and whales are mammals, what follows?",Whales are cold-blooded,Whales are warm-blooded,All warm-blooded animals are whales,No conclusion follows,B
+Q007,Mathematics,What is the value of 3 squared plus 4 squared?,7,12,25,49,C
+Q008,Computer Science,Which algorithm is commonly used for shortest paths with non-negative edge weights?,Dijkstra's algorithm,Merge sort,Binary search,K-means,A
+Q009,Biology,DNA is primarily composed of which type of building block?,Amino acids,Nucleotides,Fatty acids,Monosaccharides,B
+Q010,Economics,"What usually happens to demand when the price of a normal good increases, all else equal?",Demanded quantity decreases,Demanded quantity increases,Supply disappears,Inflation becomes zero,A

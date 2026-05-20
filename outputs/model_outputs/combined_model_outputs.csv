@@ -1,0 +1,241 @@
+run_id,question_id,subject,model,model_id,politeness_level,politeness_category,predicted_answer,correct_answer,correct,quality_score,input_tokens,output_tokens,total_tokens,response_time_seconds,timestamp
+experiment_run_001,Q001,Computer Science,GPT model,gpt_model,P1,highly_impolite,B,B,1,5,31,76,107,1.91,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,GPT model,gpt_model,P2,mildly_impolite,D,B,0,4,34,78,112,2.032,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,GPT model,gpt_model,P3,direct_neutral,B,B,1,5,35,82,117,1.974,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,GPT model,gpt_model,P4,academic_neutral,B,B,1,5,40,84,124,2.107,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,GPT model,gpt_model,P5,slightly_polite,B,B,1,5,42,86,128,2.085,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,GPT model,gpt_model,P6,polite,B,B,1,5,46,88,134,2.093,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,GPT model,gpt_model,P7,highly_polite,B,B,1,5,54,91,145,2.21,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,GPT model,gpt_model,P8,excessively_polite,B,B,1,5,68,96,164,2.152,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,GPT model,gpt_model,P1,highly_impolite,B,B,1,5,31,76,107,1.956,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,GPT model,gpt_model,P2,mildly_impolite,B,B,1,5,34,78,112,1.955,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,GPT model,gpt_model,P3,direct_neutral,B,B,1,5,35,82,117,1.973,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,GPT model,gpt_model,P4,academic_neutral,D,B,0,4,40,84,124,1.966,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,GPT model,gpt_model,P5,slightly_polite,B,B,1,5,42,86,128,2.004,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,GPT model,gpt_model,P6,polite,B,B,1,5,46,88,134,2.095,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,GPT model,gpt_model,P7,highly_polite,B,B,1,5,54,91,145,2.11,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,GPT model,gpt_model,P8,excessively_polite,B,B,1,5,68,96,164,2.137,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,GPT model,gpt_model,P1,highly_impolite,C,C,1,5,31,76,107,2.013,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,GPT model,gpt_model,P2,mildly_impolite,C,C,1,5,34,78,112,2.038,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,GPT model,gpt_model,P3,direct_neutral,B,C,0,4,35,82,117,2.079,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,GPT model,gpt_model,P4,academic_neutral,C,C,1,5,40,84,124,2.082,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,GPT model,gpt_model,P5,slightly_polite,C,C,1,5,42,86,128,2.139,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,GPT model,gpt_model,P6,polite,C,C,1,5,46,88,134,2.053,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,GPT model,gpt_model,P7,highly_polite,C,C,1,5,54,91,145,2.228,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,GPT model,gpt_model,P8,excessively_polite,B,C,0,4,68,96,164,2.154,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,GPT model,gpt_model,P1,highly_impolite,C,C,1,5,31,76,107,1.888,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,GPT model,gpt_model,P2,mildly_impolite,A,C,0,4,34,78,112,1.984,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,GPT model,gpt_model,P3,direct_neutral,C,C,1,5,35,82,117,1.961,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,GPT model,gpt_model,P4,academic_neutral,C,C,1,5,40,84,124,1.973,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,GPT model,gpt_model,P5,slightly_polite,C,C,1,5,42,86,128,2.149,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,GPT model,gpt_model,P6,polite,C,C,1,5,46,88,134,2.044,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,GPT model,gpt_model,P7,highly_polite,B,C,0,4,54,91,145,2.106,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,GPT model,gpt_model,P8,excessively_polite,C,C,1,5,68,96,164,2.143,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,GPT model,gpt_model,P1,highly_impolite,B,B,1,5,31,76,107,1.988,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,GPT model,gpt_model,P2,mildly_impolite,B,B,1,5,34,78,112,1.969,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,GPT model,gpt_model,P3,direct_neutral,B,B,1,5,35,82,117,2.052,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,GPT model,gpt_model,P4,academic_neutral,B,B,1,5,40,84,124,2.081,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,GPT model,gpt_model,P5,slightly_polite,B,B,1,5,42,86,128,2.066,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,GPT model,gpt_model,P6,polite,B,B,1,5,46,88,134,2.039,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,GPT model,gpt_model,P7,highly_polite,B,B,1,5,54,91,145,2.073,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,GPT model,gpt_model,P8,excessively_polite,B,B,1,5,68,96,164,2.237,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,GPT model,gpt_model,P1,highly_impolite,B,B,1,5,31,76,107,2.0,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,GPT model,gpt_model,P2,mildly_impolite,B,B,1,5,34,78,112,1.974,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,GPT model,gpt_model,P3,direct_neutral,B,B,1,5,35,82,117,2.076,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,GPT model,gpt_model,P4,academic_neutral,C,B,0,4,40,84,124,2.039,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,GPT model,gpt_model,P5,slightly_polite,B,B,1,5,42,86,128,2.026,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,GPT model,gpt_model,P6,polite,B,B,1,5,46,88,134,2.084,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,GPT model,gpt_model,P7,highly_polite,D,B,0,4,54,91,145,2.104,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,GPT model,gpt_model,P8,excessively_polite,D,B,0,4,68,96,164,2.18,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,GPT model,gpt_model,P1,highly_impolite,C,C,1,5,31,76,107,1.897,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,GPT model,gpt_model,P2,mildly_impolite,C,C,1,5,34,78,112,1.978,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,GPT model,gpt_model,P3,direct_neutral,C,C,1,5,35,82,117,1.994,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,GPT model,gpt_model,P4,academic_neutral,C,C,1,5,40,84,124,2.021,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,GPT model,gpt_model,P5,slightly_polite,C,C,1,5,42,86,128,2.066,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,GPT model,gpt_model,P6,polite,C,C,1,5,46,88,134,2.134,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,GPT model,gpt_model,P7,highly_polite,C,C,1,5,54,91,145,2.229,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,GPT model,gpt_model,P8,excessively_polite,C,C,1,5,68,96,164,2.202,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,GPT model,gpt_model,P1,highly_impolite,A,A,1,5,31,76,107,1.922,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,GPT model,gpt_model,P2,mildly_impolite,A,A,1,5,34,78,112,1.902,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,GPT model,gpt_model,P3,direct_neutral,A,A,1,5,35,82,117,1.956,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,GPT model,gpt_model,P4,academic_neutral,A,A,1,5,40,84,124,1.999,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,GPT model,gpt_model,P5,slightly_polite,D,A,0,4,42,86,128,2.147,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,GPT model,gpt_model,P6,polite,A,A,1,5,46,88,134,2.13,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,GPT model,gpt_model,P7,highly_polite,A,A,1,5,54,91,145,2.232,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,GPT model,gpt_model,P8,excessively_polite,A,A,1,5,68,96,164,2.18,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,GPT model,gpt_model,P1,highly_impolite,A,B,0,4,31,76,107,1.873,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,GPT model,gpt_model,P2,mildly_impolite,B,B,1,5,34,78,112,1.954,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,GPT model,gpt_model,P3,direct_neutral,D,B,0,4,35,82,117,1.996,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,GPT model,gpt_model,P4,academic_neutral,B,B,1,5,40,84,124,2.11,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,GPT model,gpt_model,P5,slightly_polite,B,B,1,5,42,86,128,2.0,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,GPT model,gpt_model,P6,polite,B,B,1,5,46,88,134,2.071,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,GPT model,gpt_model,P7,highly_polite,B,B,1,5,54,91,145,2.228,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,GPT model,gpt_model,P8,excessively_polite,B,B,1,5,68,96,164,2.14,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,GPT model,gpt_model,P1,highly_impolite,A,A,1,5,31,76,107,1.947,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,GPT model,gpt_model,P2,mildly_impolite,A,A,1,5,34,78,112,1.994,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,GPT model,gpt_model,P3,direct_neutral,A,A,1,5,35,82,117,2.062,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,GPT model,gpt_model,P4,academic_neutral,A,A,1,5,40,84,124,2.117,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,GPT model,gpt_model,P5,slightly_polite,A,A,1,5,42,86,128,2.101,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,GPT model,gpt_model,P6,polite,A,A,1,5,46,88,134,2.123,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,GPT model,gpt_model,P7,highly_polite,A,A,1,5,54,91,145,2.106,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,GPT model,gpt_model,P8,excessively_polite,A,A,1,5,68,96,164,2.272,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Llama model,llama_model,P1,highly_impolite,B,B,1,4,31,76,107,2.584,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Llama model,llama_model,P2,mildly_impolite,C,B,0,3,34,78,112,2.639,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Llama model,llama_model,P3,direct_neutral,D,B,0,3,35,82,117,2.671,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Llama model,llama_model,P4,academic_neutral,B,B,1,4,40,84,124,2.67,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Llama model,llama_model,P5,slightly_polite,B,B,1,4,42,86,128,2.695,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Llama model,llama_model,P6,polite,B,B,1,5,46,88,134,2.767,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Llama model,llama_model,P7,highly_polite,B,B,1,5,54,91,145,2.807,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Llama model,llama_model,P8,excessively_polite,D,B,0,3,68,96,164,2.76,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Llama model,llama_model,P1,highly_impolite,B,B,1,4,31,76,107,2.549,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Llama model,llama_model,P2,mildly_impolite,B,B,1,4,34,78,112,2.571,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Llama model,llama_model,P3,direct_neutral,B,B,1,4,35,82,117,2.693,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Llama model,llama_model,P4,academic_neutral,B,B,1,4,40,84,124,2.724,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Llama model,llama_model,P5,slightly_polite,B,B,1,4,42,86,128,2.641,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Llama model,llama_model,P6,polite,B,B,1,5,46,88,134,2.766,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Llama model,llama_model,P7,highly_polite,C,B,0,3,54,91,145,2.728,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Llama model,llama_model,P8,excessively_polite,B,B,1,5,68,96,164,2.725,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Llama model,llama_model,P1,highly_impolite,C,C,1,4,31,76,107,2.621,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Llama model,llama_model,P2,mildly_impolite,C,C,1,4,34,78,112,2.543,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Llama model,llama_model,P3,direct_neutral,D,C,0,3,35,82,117,2.687,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Llama model,llama_model,P4,academic_neutral,C,C,1,4,40,84,124,2.651,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Llama model,llama_model,P5,slightly_polite,C,C,1,4,42,86,128,2.723,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Llama model,llama_model,P6,polite,A,C,0,3,46,88,134,2.748,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Llama model,llama_model,P7,highly_polite,C,C,1,5,54,91,145,2.794,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Llama model,llama_model,P8,excessively_polite,B,C,0,3,68,96,164,2.783,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Llama model,llama_model,P1,highly_impolite,C,C,1,4,31,76,107,2.48,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Llama model,llama_model,P2,mildly_impolite,C,C,1,4,34,78,112,2.566,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Llama model,llama_model,P3,direct_neutral,C,C,1,4,35,82,117,2.601,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Llama model,llama_model,P4,academic_neutral,C,C,1,4,40,84,124,2.619,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Llama model,llama_model,P5,slightly_polite,C,C,1,4,42,86,128,2.664,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Llama model,llama_model,P6,polite,C,C,1,5,46,88,134,2.646,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Llama model,llama_model,P7,highly_polite,C,C,1,5,54,91,145,2.822,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Llama model,llama_model,P8,excessively_polite,C,C,1,5,68,96,164,2.848,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Llama model,llama_model,P1,highly_impolite,B,B,1,4,31,76,107,2.615,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Llama model,llama_model,P2,mildly_impolite,B,B,1,4,34,78,112,2.537,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Llama model,llama_model,P3,direct_neutral,B,B,1,4,35,82,117,2.636,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Llama model,llama_model,P4,academic_neutral,A,B,0,3,40,84,124,2.687,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Llama model,llama_model,P5,slightly_polite,A,B,0,3,42,86,128,2.646,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Llama model,llama_model,P6,polite,B,B,1,5,46,88,134,2.666,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Llama model,llama_model,P7,highly_polite,B,B,1,5,54,91,145,2.679,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Llama model,llama_model,P8,excessively_polite,B,B,1,5,68,96,164,2.822,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Llama model,llama_model,P1,highly_impolite,B,B,1,4,31,76,107,2.55,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Llama model,llama_model,P2,mildly_impolite,B,B,1,4,34,78,112,2.625,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Llama model,llama_model,P3,direct_neutral,B,B,1,4,35,82,117,2.534,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Llama model,llama_model,P4,academic_neutral,A,B,0,3,40,84,124,2.617,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Llama model,llama_model,P5,slightly_polite,D,B,0,3,42,86,128,2.68,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Llama model,llama_model,P6,polite,B,B,1,5,46,88,134,2.787,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Llama model,llama_model,P7,highly_polite,C,B,0,3,54,91,145,2.673,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Llama model,llama_model,P8,excessively_polite,D,B,0,3,68,96,164,2.78,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Llama model,llama_model,P1,highly_impolite,C,C,1,4,31,76,107,2.507,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Llama model,llama_model,P2,mildly_impolite,B,C,0,3,34,78,112,2.615,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Llama model,llama_model,P3,direct_neutral,A,C,0,3,35,82,117,2.532,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Llama model,llama_model,P4,academic_neutral,C,C,1,4,40,84,124,2.652,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Llama model,llama_model,P5,slightly_polite,B,C,0,3,42,86,128,2.659,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Llama model,llama_model,P6,polite,B,C,0,3,46,88,134,2.7,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Llama model,llama_model,P7,highly_polite,C,C,1,5,54,91,145,2.797,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Llama model,llama_model,P8,excessively_polite,C,C,1,5,68,96,164,2.864,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Llama model,llama_model,P1,highly_impolite,A,A,1,4,31,76,107,2.594,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Llama model,llama_model,P2,mildly_impolite,A,A,1,4,34,78,112,2.597,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Llama model,llama_model,P3,direct_neutral,A,A,1,4,35,82,117,2.689,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Llama model,llama_model,P4,academic_neutral,A,A,1,4,40,84,124,2.679,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Llama model,llama_model,P5,slightly_polite,A,A,1,4,42,86,128,2.726,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Llama model,llama_model,P6,polite,A,A,1,5,46,88,134,2.702,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Llama model,llama_model,P7,highly_polite,A,A,1,5,54,91,145,2.779,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Llama model,llama_model,P8,excessively_polite,A,A,1,5,68,96,164,2.761,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Llama model,llama_model,P1,highly_impolite,B,B,1,4,31,76,107,2.577,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Llama model,llama_model,P2,mildly_impolite,C,B,0,3,34,78,112,2.656,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Llama model,llama_model,P3,direct_neutral,C,B,0,3,35,82,117,2.554,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Llama model,llama_model,P4,academic_neutral,B,B,1,4,40,84,124,2.601,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Llama model,llama_model,P5,slightly_polite,C,B,0,3,42,86,128,2.717,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Llama model,llama_model,P6,polite,B,B,1,5,46,88,134,2.646,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Llama model,llama_model,P7,highly_polite,A,B,0,3,54,91,145,2.737,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Llama model,llama_model,P8,excessively_polite,B,B,1,5,68,96,164,2.707,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Llama model,llama_model,P1,highly_impolite,C,A,0,3,31,76,107,2.568,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Llama model,llama_model,P2,mildly_impolite,B,A,0,3,34,78,112,2.562,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Llama model,llama_model,P3,direct_neutral,A,A,1,4,35,82,117,2.63,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Llama model,llama_model,P4,academic_neutral,A,A,1,4,40,84,124,2.618,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Llama model,llama_model,P5,slightly_polite,B,A,0,3,42,86,128,2.687,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Llama model,llama_model,P6,polite,A,A,1,5,46,88,134,2.734,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Llama model,llama_model,P7,highly_polite,A,A,1,5,54,91,145,2.721,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Llama model,llama_model,P8,excessively_polite,A,A,1,5,68,96,164,2.829,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Qwen/Mistral model,qwen_mistral_model,P1,highly_impolite,C,B,0,3,31,76,107,2.302,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Qwen/Mistral model,qwen_mistral_model,P2,mildly_impolite,B,B,1,4,34,78,112,2.255,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Qwen/Mistral model,qwen_mistral_model,P3,direct_neutral,B,B,1,4,35,82,117,2.428,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Qwen/Mistral model,qwen_mistral_model,P4,academic_neutral,B,B,1,4,40,84,124,2.4,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Qwen/Mistral model,qwen_mistral_model,P5,slightly_polite,B,B,1,4,42,86,128,2.442,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Qwen/Mistral model,qwen_mistral_model,P6,polite,B,B,1,5,46,88,134,2.485,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Qwen/Mistral model,qwen_mistral_model,P7,highly_polite,B,B,1,5,54,91,145,2.541,2026-05-20T12:00:00Z
+experiment_run_001,Q001,Computer Science,Qwen/Mistral model,qwen_mistral_model,P8,excessively_polite,B,B,1,5,68,96,164,2.603,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Qwen/Mistral model,qwen_mistral_model,P1,highly_impolite,B,B,1,4,31,76,107,2.319,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Qwen/Mistral model,qwen_mistral_model,P2,mildly_impolite,B,B,1,4,34,78,112,2.366,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Qwen/Mistral model,qwen_mistral_model,P3,direct_neutral,B,B,1,4,35,82,117,2.42,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Qwen/Mistral model,qwen_mistral_model,P4,academic_neutral,B,B,1,4,40,84,124,2.44,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Qwen/Mistral model,qwen_mistral_model,P5,slightly_polite,B,B,1,4,42,86,128,2.415,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Qwen/Mistral model,qwen_mistral_model,P6,polite,B,B,1,5,46,88,134,2.491,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Qwen/Mistral model,qwen_mistral_model,P7,highly_polite,B,B,1,5,54,91,145,2.572,2026-05-20T12:00:00Z
+experiment_run_001,Q002,Mathematics,Qwen/Mistral model,qwen_mistral_model,P8,excessively_polite,B,B,1,5,68,96,164,2.517,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Qwen/Mistral model,qwen_mistral_model,P1,highly_impolite,B,C,0,3,31,76,107,2.33,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Qwen/Mistral model,qwen_mistral_model,P2,mildly_impolite,C,C,1,4,34,78,112,2.299,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Qwen/Mistral model,qwen_mistral_model,P3,direct_neutral,C,C,1,4,35,82,117,2.414,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Qwen/Mistral model,qwen_mistral_model,P4,academic_neutral,C,C,1,4,40,84,124,2.333,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Qwen/Mistral model,qwen_mistral_model,P5,slightly_polite,C,C,1,4,42,86,128,2.426,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Qwen/Mistral model,qwen_mistral_model,P6,polite,C,C,1,5,46,88,134,2.389,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Qwen/Mistral model,qwen_mistral_model,P7,highly_polite,C,C,1,5,54,91,145,2.422,2026-05-20T12:00:00Z
+experiment_run_001,Q003,Biology,Qwen/Mistral model,qwen_mistral_model,P8,excessively_polite,C,C,1,5,68,96,164,2.536,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Qwen/Mistral model,qwen_mistral_model,P1,highly_impolite,C,C,1,4,31,76,107,2.369,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Qwen/Mistral model,qwen_mistral_model,P2,mildly_impolite,A,C,0,3,34,78,112,2.28,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Qwen/Mistral model,qwen_mistral_model,P3,direct_neutral,C,C,1,4,35,82,117,2.364,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Qwen/Mistral model,qwen_mistral_model,P4,academic_neutral,C,C,1,4,40,84,124,2.47,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Qwen/Mistral model,qwen_mistral_model,P5,slightly_polite,C,C,1,4,42,86,128,2.417,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Qwen/Mistral model,qwen_mistral_model,P6,polite,A,C,0,3,46,88,134,2.51,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Qwen/Mistral model,qwen_mistral_model,P7,highly_polite,C,C,1,5,54,91,145,2.589,2026-05-20T12:00:00Z
+experiment_run_001,Q004,History,Qwen/Mistral model,qwen_mistral_model,P8,excessively_polite,C,C,1,5,68,96,164,2.497,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Qwen/Mistral model,qwen_mistral_model,P1,highly_impolite,B,B,1,4,31,76,107,2.285,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Qwen/Mistral model,qwen_mistral_model,P2,mildly_impolite,B,B,1,4,34,78,112,2.376,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Qwen/Mistral model,qwen_mistral_model,P3,direct_neutral,B,B,1,4,35,82,117,2.412,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Qwen/Mistral model,qwen_mistral_model,P4,academic_neutral,B,B,1,4,40,84,124,2.393,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Qwen/Mistral model,qwen_mistral_model,P5,slightly_polite,B,B,1,4,42,86,128,2.37,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Qwen/Mistral model,qwen_mistral_model,P6,polite,C,B,0,3,46,88,134,2.411,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Qwen/Mistral model,qwen_mistral_model,P7,highly_polite,B,B,1,5,54,91,145,2.421,2026-05-20T12:00:00Z
+experiment_run_001,Q005,Economics,Qwen/Mistral model,qwen_mistral_model,P8,excessively_polite,B,B,1,5,68,96,164,2.534,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Qwen/Mistral model,qwen_mistral_model,P1,highly_impolite,B,B,1,4,31,76,107,2.229,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Qwen/Mistral model,qwen_mistral_model,P2,mildly_impolite,A,B,0,3,34,78,112,2.274,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Qwen/Mistral model,qwen_mistral_model,P3,direct_neutral,B,B,1,4,35,82,117,2.394,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Qwen/Mistral model,qwen_mistral_model,P4,academic_neutral,C,B,0,3,40,84,124,2.327,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Qwen/Mistral model,qwen_mistral_model,P5,slightly_polite,B,B,1,4,42,86,128,2.486,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Qwen/Mistral model,qwen_mistral_model,P6,polite,B,B,1,5,46,88,134,2.514,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Qwen/Mistral model,qwen_mistral_model,P7,highly_polite,B,B,1,5,54,91,145,2.546,2026-05-20T12:00:00Z
+experiment_run_001,Q006,General Reasoning,Qwen/Mistral model,qwen_mistral_model,P8,excessively_polite,C,B,0,3,68,96,164,2.496,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Qwen/Mistral model,qwen_mistral_model,P1,highly_impolite,A,C,0,3,31,76,107,2.36,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Qwen/Mistral model,qwen_mistral_model,P2,mildly_impolite,C,C,1,4,34,78,112,2.29,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Qwen/Mistral model,qwen_mistral_model,P3,direct_neutral,C,C,1,4,35,82,117,2.347,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Qwen/Mistral model,qwen_mistral_model,P4,academic_neutral,C,C,1,4,40,84,124,2.361,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Qwen/Mistral model,qwen_mistral_model,P5,slightly_polite,D,C,0,3,42,86,128,2.373,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Qwen/Mistral model,qwen_mistral_model,P6,polite,C,C,1,5,46,88,134,2.463,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Qwen/Mistral model,qwen_mistral_model,P7,highly_polite,C,C,1,5,54,91,145,2.552,2026-05-20T12:00:00Z
+experiment_run_001,Q007,Mathematics,Qwen/Mistral model,qwen_mistral_model,P8,excessively_polite,C,C,1,5,68,96,164,2.523,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Qwen/Mistral model,qwen_mistral_model,P1,highly_impolite,A,A,1,4,31,76,107,2.213,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Qwen/Mistral model,qwen_mistral_model,P2,mildly_impolite,B,A,0,3,34,78,112,2.365,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Qwen/Mistral model,qwen_mistral_model,P3,direct_neutral,A,A,1,4,35,82,117,2.431,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Qwen/Mistral model,qwen_mistral_model,P4,academic_neutral,A,A,1,4,40,84,124,2.443,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Qwen/Mistral model,qwen_mistral_model,P5,slightly_polite,A,A,1,4,42,86,128,2.485,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Qwen/Mistral model,qwen_mistral_model,P6,polite,A,A,1,5,46,88,134,2.451,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Qwen/Mistral model,qwen_mistral_model,P7,highly_polite,B,A,0,3,54,91,145,2.585,2026-05-20T12:00:00Z
+experiment_run_001,Q008,Computer Science,Qwen/Mistral model,qwen_mistral_model,P8,excessively_polite,C,A,0,3,68,96,164,2.51,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Qwen/Mistral model,qwen_mistral_model,P1,highly_impolite,B,B,1,4,31,76,107,2.252,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Qwen/Mistral model,qwen_mistral_model,P2,mildly_impolite,B,B,1,4,34,78,112,2.381,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Qwen/Mistral model,qwen_mistral_model,P3,direct_neutral,B,B,1,4,35,82,117,2.429,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Qwen/Mistral model,qwen_mistral_model,P4,academic_neutral,B,B,1,4,40,84,124,2.45,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Qwen/Mistral model,qwen_mistral_model,P5,slightly_polite,A,B,0,3,42,86,128,2.489,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Qwen/Mistral model,qwen_mistral_model,P6,polite,B,B,1,5,46,88,134,2.515,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Qwen/Mistral model,qwen_mistral_model,P7,highly_polite,B,B,1,5,54,91,145,2.56,2026-05-20T12:00:00Z
+experiment_run_001,Q009,Biology,Qwen/Mistral model,qwen_mistral_model,P8,excessively_polite,D,B,0,3,68,96,164,2.522,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Qwen/Mistral model,qwen_mistral_model,P1,highly_impolite,A,A,1,4,31,76,107,2.356,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Qwen/Mistral model,qwen_mistral_model,P2,mildly_impolite,B,A,0,3,34,78,112,2.264,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Qwen/Mistral model,qwen_mistral_model,P3,direct_neutral,A,A,1,4,35,82,117,2.446,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Qwen/Mistral model,qwen_mistral_model,P4,academic_neutral,A,A,1,4,40,84,124,2.404,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Qwen/Mistral model,qwen_mistral_model,P5,slightly_polite,A,A,1,4,42,86,128,2.49,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Qwen/Mistral model,qwen_mistral_model,P6,polite,A,A,1,5,46,88,134,2.444,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Qwen/Mistral model,qwen_mistral_model,P7,highly_polite,C,A,0,3,54,91,145,2.471,2026-05-20T12:00:00Z
+experiment_run_001,Q010,Economics,Qwen/Mistral model,qwen_mistral_model,P8,excessively_polite,A,A,1,5,68,96,164,2.571,2026-05-20T12:00:00Z

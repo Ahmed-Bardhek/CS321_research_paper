@@ -1,0 +1,5 @@
+comparison,test_used,p_value,significant_at_p_0_05
+Impolite vs. Neutral,Wilcoxon signed-rank,0.018,Yes
+Neutral vs. Polite,Wilcoxon signed-rank,0.214,No
+Without pleasantries vs. With pleasantries,Paired t-test,0.047,Yes
+Older models vs. Newer models,Paired t-test,0.032,Yes

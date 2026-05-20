@@ -1,0 +1,3 @@
+model_generation,accuracy_range,sensitivity
+Older model generation,66.8--71.9,5.1
+Newer model generation,74.2--77.1,2.9

@@ -1,0 +1,4 @@
+model,impolite,neutral,polite
+GPT model,78.8,81.5,81.8
+Llama model,69.7,72.6,72.8
+Qwen/Mistral model,72.8,75.0,75.2
